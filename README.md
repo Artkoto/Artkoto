@@ -1,18 +1,17 @@
-### Salut ! 👋
+# Salut ! 👋
 
-Je suis Artkoto, étudiant en master en informatique. 
+Je suis **Artkoto**, étudiant en **Master Informatique**.
 
-<!--
-**Artkoto/Artkoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Passionné par l'informatique, je construis des projets autour du développement logiciel et je continue à approfondir mes compétences techniques à travers mes études et mes réalisations personnelles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mon profil professionnel
+
+Retrouvez le détail de mon parcours, de mes expériences et de mes compétences ici :
+
+- 🔗 LinkedIn : [linkedin.com/in/artkoto](https://www.linkedin.com/in/artkoto/)
+
+## Contact
+
+- 💼 LinkedIn : [@artkoto](https://www.linkedin.com/in/artkoto/)
